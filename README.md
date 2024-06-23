@@ -73,6 +73,3 @@ I welcome contributions to enhance this project. If you are interested in contri
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
-
-Make sure to customize the repository URL and any other project-specific details as needed. This README aims to provide a clear and detailed guide for users and contributors to understand and engage with your project.
