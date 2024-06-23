@@ -1,4 +1,4 @@
-# MyAI-ChatGpt Clone with MERN Stack
+# MyAI-ChatGpt
 
 Welcome to my comprehensive AI chatbot project, a scalable and secure clone of ChatGPT built with the MERN stack (MongoDB, Express.js, React, and Node.js) enhanced by TypeScript. This project serves as a deep dive into creating advanced, secure, and production-ready SaaS applications using modern web technologies.
 
