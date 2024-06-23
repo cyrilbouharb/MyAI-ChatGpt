@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box } from '@mui/material';
 import TypingAnim from '../components/typer/TypingAnim';
-
+import Footer from '../components/footer/Footer';
 const Home = () => {
   return (
     <Box width={"100%"} height={"100%"}>
@@ -69,6 +69,7 @@ const Home = () => {
     <Box></Box>
 
     </Box>
+    <Footer/>
     </Box>
   );
 }
