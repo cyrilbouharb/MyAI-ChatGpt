@@ -70,6 +70,10 @@ With both servers running, open your browser and go to the frontend URL to inter
 I welcome contributions to enhance this project. If you are interested in contributing, please fork the repository and submit a pull request. If you have suggestions or encounter issues, feel free to open an issue in the GitHub repository.
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+https://github.com/cyrilbouharb/MyAI-ChatGpt/assets/55791197/1fae70fc-f566-4136-bb7d-1e89a52b0a91
+
+
+
 
