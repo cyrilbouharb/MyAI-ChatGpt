@@ -72,7 +72,11 @@ I welcome contributions to enhance this project. If you are interested in contri
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-https://github.com/cyrilbouharb/MyAI-ChatGpt/assets/55791197/1fae70fc-f566-4136-bb7d-1e89a52b0a91
+
+
+https://github.com/cyrilbouharb/MyAI-ChatGpt/assets/55791197/1aeb8979-3be7-41ad-b3e7-865e5b86b693
+
+
 
 
 
