@@ -5,7 +5,7 @@ Welcome to my comprehensive AI chatbot project, a scalable and secure clone of C
 ## Project Overview
 
 I developed this project to demonstrate the integration of cutting-edge technologies in building effective and interactive AI-driven applications. It encapsulates the practical implementation of theoretical knowledge into a functional AI chatbot.
-
+https://github.com/cyrilbouharb/MyAI-ChatGpt/assets/55791197/1aeb8979-3be7-41ad-b3e7-865e5b86b693
 ## Key Features
 
 - **MERN Stack Implementation**: Implemented a full-stack application using MongoDB, Express, React, and Node.js.
@@ -73,8 +73,6 @@ I welcome contributions to enhance this project. If you are interested in contri
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
-
-https://github.com/cyrilbouharb/MyAI-ChatGpt/assets/55791197/1aeb8979-3be7-41ad-b3e7-865e5b86b693
 
 
 
